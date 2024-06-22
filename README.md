@@ -88,7 +88,7 @@ _You must install the following:._
 
 ## Contact
 
-[LinkdIn](www.linkedin.com/in/abhinav-anand18)
+[LinkedIn](https://www.linkedin.com/in/abhinav-anand18)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
