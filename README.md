@@ -4,10 +4,10 @@
 <br />
 <div align="center">
   <a>
-    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" alt="spotify-logo" width="220" height="70">
+    <img src="pfp.png" alt="spotify-logo" width="220" height="70">
   </a>
 
-  <h3 align="center">Spotify Clone</h3>
+  <h3 align="center">TuneWave</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -36,7 +36,7 @@
 
 ## About The Project
 
-![Spotify Clone Screenshot](ss.png)
+![TuneWave Screenshot](ss.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
